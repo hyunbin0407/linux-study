@@ -1,4 +1,15 @@
-// 현재 위치를 확인하는 pwd
+## pwd
 
-janghyeonbin@janghyeonbin-ui-MacBookPro ~ % pwd
+현재 디렉토리 위치를 확인하는 명령어
+
+### 사용 방법
+
+```bash
+pwd
+```
+
+### 실행 예시
+
+```
 /Users/janghyeonbin
+```
