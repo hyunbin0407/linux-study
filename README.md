@@ -16,3 +16,7 @@
 4. Process
 5. Network
 
+## Study record
+
+- Day 01 | Basic Commands |
+
