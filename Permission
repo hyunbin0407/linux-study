@@ -1,0 +1,22 @@
+# Linux Permission
+
+## Permission 종류
+r : read
+w : write
+x : execute
+
+## 사용자 종류
+u : user
+g : group
+o : other
+
+## 권한 확인
+ls -l
+
+## chmod
+chmod u+x file.sh
+chmod 755 file.sh
+
+## chown
+chown user file.txt
+chown user:group file.txt
