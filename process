@@ -1,1 +1,28 @@
-d
+# Linux Process
+
+## 프로세스란?
+실행 중인 프로그램
+
+## 프로세스 확인
+ps
+ps -ef
+ps aux
+
+## 실시간 확인
+top
+htop
+
+## 종료
+kill PID
+kill -9 PID
+
+## 백그라운드 실행
+command &
+
+## 작업 제어
+jobs
+fg
+bg
+
+## 우선순위
+nice -n 10 command
